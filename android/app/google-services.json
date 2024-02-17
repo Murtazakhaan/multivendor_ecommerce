@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "491299201486",
+    "project_id": "pathabo-a9872",
+    "storage_bucket": "pathabo-a9872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491299201486:android:d47fd3e6ca50c199c28b9f",
+        "android_client_info": {
+          "package_name": "com.mover.pathabo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491299201486-05d908vl8ojd615o7vvafk4pkdfisi1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBduJ4c41eDYixFCCPaRz4eNKTGno_B8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491299201486-05d908vl8ojd615o7vvafk4pkdfisi1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491299201486:android:80652f7bb15f316cc28b9f",
+        "android_client_info": {
+          "package_name": "com.pathabo.pathabouser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491299201486-uo2nanqtrdou86vp4166p8dgn5ilj9ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pathabo.pathabouser",
+            "certificate_hash": "f33bba6968784264fc275d8746fe3d56f2ee19ef"
+          }
+        },
+        {
+          "client_id": "491299201486-05d908vl8ojd615o7vvafk4pkdfisi1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBduJ4c41eDYixFCCPaRz4eNKTGno_B8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491299201486-05d908vl8ojd615o7vvafk4pkdfisi1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491299201486:android:52ceaaeb76326676c28b9f",
+        "android_client_info": {
+          "package_name": "com.shop.pathabo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491299201486-05d908vl8ojd615o7vvafk4pkdfisi1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBduJ4c41eDYixFCCPaRz4eNKTGno_B8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491299201486-05d908vl8ojd615o7vvafk4pkdfisi1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
